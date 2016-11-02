@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("Android_Coffee_Calculator.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("se.sigcont.android.coffeecalculator.Resource", IsApplication=true)]
 
-namespace Android_Coffee_Calculator
+namespace se.sigcont.android.coffeecalculator
 {
 	
 	
